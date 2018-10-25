@@ -1,5 +1,7 @@
 # SENSA Smart Stepper Driver 
-![board](https://raw.githubusercontent.com/SensaOrg/StepperDriver/master/Docs/board.png =1000x800)
+<p align="center"> 
+<img width="1000" height="800" src="https://raw.githubusercontent.com/SensaOrg/StepperDriver/master/Docs/board.png">
+</p>
 ### Main features
 - on-board ATMEGA328/P
 - A4988 module 
