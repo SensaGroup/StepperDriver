@@ -31,11 +31,11 @@ Two switches can be also added to the board via a connector, which can help you 
 
 ## Images
 <p align="center"> 
-<img width="600" height="450" src="https://raw.githubusercontent.com/SensaOrg/StepperDriver/master/Docs/Output/top_view.png">
+<img width="400" height="400" src="https://raw.githubusercontent.com/SensaOrg/StepperDriver/master/Docs/Output/top_view.png">
 </p>
 
 <p align="center"> 
-<img width="600" height="450" src="https://raw.githubusercontent.com/SensaOrg/StepperDriver/master/Docs/Output/side_view.png">
+<img width="400" height="400" src="https://raw.githubusercontent.com/SensaOrg/StepperDriver/master/Docs/Output/side_view.png">
 </p>
 
 ## Sponsored by AISLER
