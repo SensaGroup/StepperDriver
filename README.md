@@ -30,10 +30,13 @@ We have added a connector for an encoder, whose pins are connected to interrupt 
 Two switches can be also added to the board via a connector, which can help you add control to your project. 
 
 ## Images
-![Top view](https://raw.githubusercontent.com/SensaOrg/StepperDriver/master/Docs/Output/top_view.png)
+<p align="center"> 
+<img width="600" height="450" src="https://raw.githubusercontent.com/SensaOrg/StepperDriver/master/Docs/Output/top_view.png">
+</p>
 
-
-![Bottom view](https://raw.githubusercontent.com/SensaOrg/StepperDriver/master/Docs/Output/side_view.png)
+<p align="center"> 
+<img width="600" height="450" src="https://raw.githubusercontent.com/SensaOrg/StepperDriver/master/Docs/Output/side_view.png">
+</p>
 
 ## Sponsored by AISLER
 ### Develop and manufacture your own premium boards at [aisler.net](https://aisler.net/)
