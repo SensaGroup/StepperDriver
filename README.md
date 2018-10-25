@@ -35,7 +35,7 @@ Two switches can be also added to the board via a connector, which can help you 
 </p>
 
 <p align="center"> 
-<img width="400" height="500" src="https://raw.githubusercontent.com/SensaOrg/StepperDriver/master/Docs/Output/side_view.png">
+<img width="500" height="400" src="https://raw.githubusercontent.com/SensaOrg/StepperDriver/master/Docs/Output/side_view.png">
 </p>
 
 ## Sponsored by AISLER
