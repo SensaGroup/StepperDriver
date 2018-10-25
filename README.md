@@ -34,10 +34,6 @@ Two switches can be also added to the board via a connector, which can help you 
 <img width="400" height="400" src="https://raw.githubusercontent.com/SensaOrg/StepperDriver/master/Docs/Output/top_view.png">
 </p>
 
-<p align="center"> 
-<img width="500" height="400" src="https://raw.githubusercontent.com/SensaOrg/StepperDriver/master/Docs/Output/side_view.png">
-</p>
-
 ## Sponsored by AISLER
 ### Develop and manufacture your own premium boards at [aisler.net](https://aisler.net/)
 
